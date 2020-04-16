@@ -14,8 +14,10 @@ dependencies:
   - ipython
   - seaborn
   - scikit-learn
+  - pyarrow
   - pip
   - pip:
     - emcee
+    - gpustat
     #- fbpca
     # Manually install jax!
